@@ -1,0 +1,37 @@
+    1  history
+    2  cat /etc/passwd
+    3  history
+    4  man
+    5  man man
+    6  man ls
+    7  man fortune
+    8  man cat
+    9  man ls
+   10  pwd
+   11  ls
+   12  ls -al
+   13  cd lab2_s2022113203
+   14  vim getchar.c
+   15  gcc -o getchar getchar.c
+   16  ./getchar
+   17  ls .
+   18  ls -ltr
+   19  ls -a
+   20  ls *.h
+   21  ls *.c
+   22  gdb getchar
+   23  ls -al; ls -l
+   24  cd /usr/include/
+   25  ls
+   26  cd ~
+   27  ls
+   28  cd SystemProgram
+   29  ls
+   30  cd lab2_s2022113203
+   31  clear
+   32  gdb getchar
+   33  cat getchar.c
+   34  less getchar
+   35  less getchar.c
+   36  history > lab2_s2022113023.log
+   37  history > lab2_s2022113203.log

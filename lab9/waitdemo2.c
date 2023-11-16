@@ -25,10 +25,10 @@ int main() {
     return 0;
 }
 
-void chlid_code(int delay) {
+void child_code(int delay) {
     printf("child %d here. will sleep for %d seconds\n", getpid(), delay);
     sleep(delay);
-    printf("child done. about to eixt\n");
+    printf("child done. about to exit\n");
     exit(17);
 }
 
